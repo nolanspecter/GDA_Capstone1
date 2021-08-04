@@ -2,10 +2,10 @@
 
 ## Guiding Questions
 
-* What is the problem you are trying to solve?
+1. What is the problem you are trying to solve?
 - To compare how annual and casual riders differs from each other.
 
-* How can your insights drive business decision?
+1. How can your insights drive business decision?
 - The insights will help the marketing team target the most benefitial aspect of being an annual members and promote it to casual riders
 
 ## Key tasks

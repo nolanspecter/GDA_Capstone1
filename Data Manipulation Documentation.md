@@ -1,0 +1,4 @@
+- Created ride_length column 
+- Created day_of_week column (1 = Monday, 7 = Sunday)
+- Created week_day to covert day_of_week to proper string
+- Removed duplicated entries

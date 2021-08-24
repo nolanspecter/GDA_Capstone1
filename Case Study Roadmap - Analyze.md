@@ -10,10 +10,10 @@
 4. How will this insights help answer your business questions?
 
 ## Key tasks
-[] Aggregate your data so it's useful and accessible
-[] Organize and format your data
-[] Perform calculation
-[] Identify trends and relationships.
+[x] Aggregate your data so it's useful and accessible
+[x] Organize and format your data
+[x] Perform calculation
+[x] Identify trends and relationships.
 
 ## Deliverable
-[] A summary of your analysis
+[x] A summary of your analysis

@@ -3,4 +3,4 @@
 - Created week_day to covert day_of_week to proper string
 - Removed duplicated entries	
 - Rename columns for consistency
-- Deleted rows with inconsistent start and end time in 202007
+- Convert ride_length to seconds
